@@ -9,7 +9,7 @@
 * Create Two Subnets (Public & Private subnets)
 * Create Security Group
 * Internet Gateway (IGW)
-* Route Table or Public subnet
+* Route Table for Public subnet
 * Route Table association
 * Create Instance (web-server) and connection
 * Create Elastic IP and associate the same with web-server
