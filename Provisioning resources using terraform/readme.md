@@ -4,7 +4,8 @@
 
 ## Steps
 
-⋅⋅* Create VPC (Virtual Private Cloud)
+⋅⋅* Create VPC (Virtual Private Cloud).
+
 ⋅⋅* Create Two Subnets (Public & Private subnets)
 ⋅⋅* Create Security Group
 ⋅⋅* Internet Gateway (IGW)
