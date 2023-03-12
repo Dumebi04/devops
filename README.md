@@ -1,5 +1,5 @@
 # devops
-my deveops projects
+My Devops Certificate
 
 
 ![image](https://user-images.githubusercontent.com/89118373/224543132-28bef393-2a00-476a-bde1-ef9ebe056aee.png)
