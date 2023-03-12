@@ -8,11 +8,11 @@
 
 * Create Two Subnets (Public & Private subnets)
 * Create Security Group
-⋅⋅* Internet Gateway (IGW)
-⋅⋅* Route Table or Public subnet
-⋅⋅* Route Table association
-⋅⋅* Create Instance (web-server) and connection
-⋅⋅* Create Elastic IP and associate the same with web-server
-⋅⋅* Create Instance for DB Server 
-⋅⋅* Create NAT gateway for the DB Server
-⋅⋅* Create route table for NAT gateway and associate
+* Internet Gateway (IGW)
+* Route Table or Public subnet
+* Route Table association
+* Create Instance (web-server) and connection
+* Create Elastic IP and associate the same with web-server
+* Create Instance for DB Server 
+* Create NAT gateway for the DB Server
+* Create route table for NAT gateway and associate
