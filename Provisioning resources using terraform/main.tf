@@ -94,6 +94,7 @@ resource "aws_route_table_association" "public-rt-asso" {
 resource "aws_instance" "web-server" {
   ami           = "ami-005f9685cb30f234b" # us-east-1
   instance_type = "t2.micro"
+  user_data = file("${path.module}/script.sh")
   key_name = "jen-key"
   subnet_id = aws_subnet.public-subnet.id
   vpc_security_group_ids = [aws_security_group.djsworld-sg.id]
